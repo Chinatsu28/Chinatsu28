@@ -1,4 +1,4 @@
-### Chinatu
+### Chinasu
 
 # <img src="https://user-images.githubusercontent.com/111115952/236140749-eeaa1116-8fcc-430b-884b-bd46a1f596bb.png" height="40px">    About me
 + <img src="https://user-images.githubusercontent.com/111115952/235999479-f96659e9-3f7b-4e68-965e-20084e0e1aa1.png" height="30px"> Computer Science student 
