@@ -1,8 +1,10 @@
 ### Chinatu
 
 # <img src="https://user-images.githubusercontent.com/111115952/236140749-eeaa1116-8fcc-430b-884b-bd46a1f596bb.png" height="40px">    About me
-<img src="https://user-images.githubusercontent.com/111115952/235999479-f96659e9-3f7b-4e68-965e-20084e0e1aa1.png" height="30px"> Computer Science student \
-<img src="https://user-images.githubusercontent.com/111115952/235999758-f6c89ce1-1d5e-4a3a-b7b4-fed3cfc8515a.png" height="30px"> Weeboo 
++ <img src="https://user-images.githubusercontent.com/111115952/235999479-f96659e9-3f7b-4e68-965e-20084e0e1aa1.png" height="30px"> Computer Science student 
++ <img src="https://user-images.githubusercontent.com/111115952/236153333-64263a36-d852-47f1-900e-97a97d1be100.png" height="30px"> Data enthusiast
++ <img src="https://user-images.githubusercontent.com/111115952/235999758-f6c89ce1-1d5e-4a3a-b7b4-fed3cfc8515a.png" height="30px"> Weeboo 
++ <img src="https://user-images.githubusercontent.com/111115952/236153624-0bed9414-9715-4413-aa62-326e8a3b74a2.png" height="30px"> Crypto trader
 
 
 # <img src="https://user-images.githubusercontent.com/111115952/235998817-2a68c913-0e53-47f0-b7c5-4ca0aa9bcba2.png" height="40px"> Social life
@@ -12,6 +14,12 @@
 <a href="discordapp.com/users/714444398125121576" target="blank"><img align="center" src="https://user-images.githubusercontent.com/111115952/236145592-0af9c6b8-c67f-4ec2-a3db-f405fe7c996f.png" height="40" /></a>
 <a href="hothanhan365@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/111115952/236146218-8852db38-2593-47e9-9719-afbf58bc3baf.png" height="40" /></a>
 <a href="https://www.instagram.com/h.chinatsu28/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/111115952/236146574-acb76567-2c8a-4ab9-9550-1179187d4633.png" height="40" /></a>
+
+# <img src="https://user-images.githubusercontent.com/111115952/236153850-da3b3330-6d84-494d-bf5f-5ff116b36e96.png" height="40px"> Language
++ <img src="https://user-images.githubusercontent.com/111115952/236154015-1c242675-33a4-41f1-9aab-f5f8996e1ea2.png" height="30px"> Vietnamese 
++ <img src="https://user-images.githubusercontent.com/111115952/236154282-73e9f15a-8783-4092-8ba4-7a8a5dd6013d.png" height="30px"> English 
++ <img src="https://user-images.githubusercontent.com/111115952/236154485-e20578c7-0d90-42c1-8a27-0f3dd58d6672.png" height="30px"> French 
+
 
 
 
@@ -34,6 +42,6 @@
 <img align="center" src="https://user-images.githubusercontent.com/111115952/236142248-f49b49d0-880b-4f81-946a-e1dec5af5fb1.png" height="40" />
 
 # <img src="https://user-images.githubusercontent.com/111115952/236148706-04bc8428-c30b-4c03-af98-070752acacab.png" height="40"> Stats
-[![Chinatsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chinatsu28&theme=nightowl)](https://github.com/Chinatsu28/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Chinatsu28&theme=nightowl)](https://git.io/streak-stats)
+[![Chinatsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chinatsu28&theme=nightowl)](https://github.com/Chinatsu28/github-readme-stats)\
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Chinatsu28&theme=nightowl)](https://git.io/streak-stats)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chinatsu28&layout=compact&theme=nightowl)](https://github.com/Chinatsu28/github-readme-stats)
