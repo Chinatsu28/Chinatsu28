@@ -11,7 +11,7 @@
 <a href="https://www.reddit.com/user/OpenNefariousness490" target="blank"><img align="center" src="https://user-images.githubusercontent.com/111115952/235996091-be81f185-dce2-4c2f-9887-27e9fa4b0764.png" height="40" /></a>
 <a href="https://www.instagram.com/h.chinatsu28/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/111115952/236135954-fe58992e-436f-4d0f-ab33-21555e6a872f.png" height="40" /></a>
 <a href="https://www.linkedin.com/in/thanh-an-ho-321078242/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/111115952/236136233-b6cbf4d6-a9a3-461b-a156-3a7a73588256.png" height="40" /></a>
-<a href="discordapp.com/users/714444398125121576" target="blank"><img align="center" src="https://user-images.githubusercontent.com/111115952/236145592-0af9c6b8-c67f-4ec2-a3db-f405fe7c996f.png" height="40" /></a>
+<a href="https://discordapp.com/users/714444398125121576" target="blank"><img align="center" src="https://user-images.githubusercontent.com/111115952/236145592-0af9c6b8-c67f-4ec2-a3db-f405fe7c996f.png" height="40" /></a>
 <a href="hothanhan365@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/111115952/236146218-8852db38-2593-47e9-9719-afbf58bc3baf.png" height="40" /></a>
 <a href="https://www.instagram.com/h.chinatsu28/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/111115952/236146574-acb76567-2c8a-4ab9-9550-1179187d4633.png" height="40" /></a>
 
