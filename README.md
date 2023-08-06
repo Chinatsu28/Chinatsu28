@@ -35,7 +35,7 @@
 <img align="center" src="https://user-images.githubusercontent.com/111115952/236139557-ab839ef6-73a0-4e75-8245-36a04b0303db.png" height="30" />
 <img align="center" src="https://user-images.githubusercontent.com/111115952/236140233-0e55c8d3-892c-4ce6-9c8b-cc548356cda7.png" height="30" />
 <img align="center" src="https://user-images.githubusercontent.com/111115952/236140298-5beb6be5-0cdd-443b-a5c6-7dff2574fbc8.png" height="30" />
-
+<img align="center" src="https://www.jdrf.org/wp-content/uploads/2020/12/AWS-logo-2.jpg" height="30" />
 # <img src="https://user-images.githubusercontent.com/111115952/236141295-36fac54c-c0ff-4a48-be76-1ea99385d922.png" height="40px"> My hobbies
 <a><img align="center" src="https://user-images.githubusercontent.com/111115952/236141806-9517c448-0970-48cd-8b51-c3ea46da5bc7.png" height="30" /><a>
 <img align="center" src="https://user-images.githubusercontent.com/111115952/236142014-12579380-a7ea-464c-8f11-2eca894e96c9.png" height="30" />
@@ -44,3 +44,4 @@
 # <img src="https://user-images.githubusercontent.com/111115952/236148706-04bc8428-c30b-4c03-af98-070752acacab.png" height="40"> Stats
 [![Chinatsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chinatsu28)](https://github.com/Chinatsu28/github-readme-stats)\
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Chinatsu28)](https://git.io/streak-stats)\
+
