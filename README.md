@@ -32,6 +32,7 @@
 <img align="center" src="https://user-images.githubusercontent.com/111115952/236139098-5c7b0f68-c0d8-4b79-a8f9-6d8aac3dae11.png" height="30" />
 <img align="center" src="https://user-images.githubusercontent.com/111115952/236139471-9628decd-1057-4807-a6ae-7ca564e46ff4.png" height="30" />
 <img align="center" src="https://user-images.githubusercontent.com/111115952/236139306-31560130-8806-477e-ac38-3131fcc77379.png" height="30" />
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height="30" />
 <img align="center" src="https://user-images.githubusercontent.com/111115952/236139557-ab839ef6-73a0-4e75-8245-36a04b0303db.png" height="30" />
 <img align="center" src="https://user-images.githubusercontent.com/111115952/236140233-0e55c8d3-892c-4ce6-9c8b-cc548356cda7.png" height="30" />
 <img align="center" src="https://user-images.githubusercontent.com/111115952/236140298-5beb6be5-0cdd-443b-a5c6-7dff2574fbc8.png" height="30" />
