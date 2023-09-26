@@ -44,5 +44,5 @@
 
 # <img src="https://user-images.githubusercontent.com/111115952/236148706-04bc8428-c30b-4c03-af98-070752acacab.png" height="40"> Stats
 [![Chinatsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chinatsu28)](https://github.com/Chinatsu28/github-readme-stats)\
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Chinatsu28)](https://git.io/streak-stats)\
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Chinatsu28)](https://git.io/streak-stats)
 
