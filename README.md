@@ -1,10 +1,12 @@
 ### Chinatsu
 
+![image](https://github.com/Chinatsu28/Chinatsu28/assets/111115952/cad68cd8-5848-40e8-a3f1-e1743211b3f9)
+
+
 # <img src="https://user-images.githubusercontent.com/111115952/236140749-eeaa1116-8fcc-430b-884b-bd46a1f596bb.png" height="40px">    About me
 + <img src="https://user-images.githubusercontent.com/111115952/235999479-f96659e9-3f7b-4e68-965e-20084e0e1aa1.png" height="30px"> Computer Science student 
 + <img src="https://user-images.githubusercontent.com/111115952/236153333-64263a36-d852-47f1-900e-97a97d1be100.png" height="30px"> Data enthusiast
 + <img src="https://user-images.githubusercontent.com/111115952/235999758-f6c89ce1-1d5e-4a3a-b7b4-fed3cfc8515a.png" height="30px"> Weeboo 
-+ <img src="https://user-images.githubusercontent.com/111115952/236153624-0bed9414-9715-4413-aa62-326e8a3b74a2.png" height="30px"> Crypto trader
 
 
 # <img src="https://user-images.githubusercontent.com/111115952/235998817-2a68c913-0e53-47f0-b7c5-4ca0aa9bcba2.png" height="40px"> Social life
