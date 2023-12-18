@@ -1,6 +1,5 @@
 ### Chinatsu
 
-![image](https://github.com/Chinatsu28/Chinatsu28/assets/111115952/cad68cd8-5848-40e8-a3f1-e1743211b3f9)
 
 
 # <img src="https://user-images.githubusercontent.com/111115952/236140749-eeaa1116-8fcc-430b-884b-bd46a1f596bb.png" height="40px">    About me
